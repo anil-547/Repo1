@@ -2,3 +2,7 @@ hi this is testing repository
 
 2nd line added
 3rd line added
+<<<<<<< HEAD
+=======
+4th line added
+>>>>>>> 12d206fefff3124bd5b781a88c0eff19f601091d
